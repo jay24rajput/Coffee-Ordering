@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoffeeOrdering</string>
+    <string name="title_activity_thank_you">ThankYou</string>
+</resources>
