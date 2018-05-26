@@ -12,7 +12,7 @@ public class Thankyou extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_thankyou);
         String name = getIntent().getExtras().getString("arg");
-        display("Mr "+name+" Your Order has been successfully placed\n");
+        display("Congrats!"+"Mr "+name+" Your Order is placed\n");
     }
 
     public void display(String text)
